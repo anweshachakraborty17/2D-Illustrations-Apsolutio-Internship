@@ -6,3 +6,6 @@ Size: 1920x1080px
 
 Pic:2 City_Day View
 Size: 1920x1080px
+
+Pic:3 Confused & Happy IT Engineer Illustration
+Size:1920x1080px
